@@ -2,7 +2,7 @@
 
 
 ### Er Diagram of Project
-proje için hazırlanan veri tabanı
+The database prepared for the Django project
 ![er_diagramm](https://github.com/sumeyyerginoz/DjangoAmazonCloneWeb/assets/112480236/b5b860e5-60a5-4d70-849d-838d8b2f7637)
 
 ## Login Page
